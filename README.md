@@ -5,9 +5,9 @@
 
 ## Build Setup:
 * Put script.js in your js folder
-* Customize variables below for your objective
-       1. `infoHeader` - container for tabs
-       2. `infoHeaderTab` - contain all of tabs
+* Customize variables below for your objective<br>
+       1. `infoHeader` - container for tabs<br>
+       2. `infoHeaderTab` - contain all of tabs<br>
        3. `infoTabcontent` - contain all of tabs content
        
 That is all
